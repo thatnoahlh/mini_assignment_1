@@ -5,11 +5,20 @@
     top: 0;
     left: 0;
 }
-body {
-    background-color: lightblue;
-  }
+
+        html {
+            background-image: url("https://media.istockphoto.com/id/1442295498/photo/closeup-seascape-surface-of-blue-sea-water-with-small-ripple-waves.webp?b=1&s=170667a&w=0&k=20&c=Gi06stY4lUEYMa3x5BxayAL9D4iXvJJyFP4qcKTOL-A=");
+            background-size: cover;
+            background-repeat: no-repeat;
+            
+        }
+
+        body {
+            font-family: cursive;
+            backdrop-filter: blur(18px);
+        }
 
 #rosa {
-    color: blueviolet;
+    color: rgb(52, 19, 85);
 }  
 
