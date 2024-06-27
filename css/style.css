@@ -16,9 +16,10 @@
         body {
             font-family: cursive;
             backdrop-filter: blur(18px);
-        }
+            text-align: center;
+            
+        };
 
 #rosa {
     color: rgb(52, 19, 85);
-}  
-
+}
